@@ -40,12 +40,12 @@ The model was validated against semi-analytical Heston benchmarks (Fourier trans
 **Figure 1: Comprehensive Model Performance**
 *Top-Right panel demonstrates that the Neural Network predictions (Blue) align with the average Monte Carlo simulation (Green), staying strictly within the 95% confidence intervals. Bottom-Right panel confirms stable convergence of the training loss.*
 
-![Comprehensive Dashboard](dashboard_results.pdf)
+![Comprehensive Dashboard](dashboard_results.png)
 
 **Figure 2: Error Analysis**
 *An analysis of Mean Squared Error (MSE) over the option's lifetime reveals that the error peaks at mid-maturity, highlighting the strong guidance provided by the initial and terminal conditions.*
 
-![MSE Analysis](mse_error_analysis.pdf)
+![MSE Analysis](mse_error_analysis.png)
 
 ## Technologies Used
 *   **Language:** Python
